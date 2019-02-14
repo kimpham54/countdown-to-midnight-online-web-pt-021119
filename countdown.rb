@@ -13,4 +13,5 @@ def countdown_with_sleep(seconds)
   sleep(1.0)
   puts "#{seconds} SECOND(S)!"
   counter -= 1
+  end
 end

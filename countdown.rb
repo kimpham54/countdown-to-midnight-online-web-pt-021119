@@ -1,4 +1,6 @@
 #write your code here
 
-def countdown
+def countdown(seconds)
+  while countdown > 0
+  puts "#{seconds} SECOND(S)!"
 end

@@ -1,4 +1,5 @@
 #write your code here
+counter = 11
 
 def countdown(seconds)
   while counter > 0

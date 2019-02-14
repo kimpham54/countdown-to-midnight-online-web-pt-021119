@@ -1,5 +1,4 @@
 #write your code here
-counter = 11
 
 def countdown(counter)
   while counter > 0
@@ -16,3 +15,6 @@ def countdown_with_sleep(counter)
   counter -= 1
   end
 end
+
+countdown(11)
+countdown_with_sleep(10)
